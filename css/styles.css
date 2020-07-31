@@ -1,0 +1,14 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	position:absolute;
+	width:1000px;
+	height:400px;
+	top:30%;
+	left:50%;
+	margin-top: -200px;
+	margin-left: -500px;
+}
